@@ -1,4 +1,4 @@
-# Consonants Problem
+# Untree Problem
 
 Problem belonging to the post-classroom Mock Interview Question Repository.
 
