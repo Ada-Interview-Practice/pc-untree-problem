@@ -30,7 +30,7 @@ Would be converted to:
 }
 ```
 
-Each key of the dictionary will be the data held by a parent node. Each value will be a tuple. The first element of the tuple will hold the data from the left child. The second element of the tuple will hold the data from the right child. If a node does not have a left and/or right child, the value in the corresponding spots in tuple will be None.
+Each key of the dictionary will be the data held by a parent node. Each value will be a tuple. The first element of the tuple will hold the data from the left child. The second element of the tuple will hold the data from the right child. If a node does not have a left and/or right child, the value in the corresponding spots in tuple will be `None`.
 
 Write a function that takes in the root of a tree and returns a dictionary representation of the tree.
 
